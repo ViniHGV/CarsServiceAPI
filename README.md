@@ -1,4 +1,4 @@
-# API REST de Carros
+# CarsServiceAPI 🚗
 
 Bem-vindo ao repositório da API REST de Carros! Este projeto consiste em uma implementação de um CRUD (Create, Read, Update, Delete) em uma API ASP.NET Web API para gerenciamento de informações sobre carros.
 
